@@ -24,6 +24,10 @@ generate JWT token
 Create a new user with password
 Get all users
 
+frontend
+configuracion->usuarios
+get users and add new user
+
 
 
 
